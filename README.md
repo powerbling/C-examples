@@ -7,6 +7,6 @@ avete bisogno.
 Potete scaricare questi programmi cliccando il bottone verde e provarli, non credo facciano qualcosa di utile ma potete 
 sperimentarci e vedere cosa succede se cambiate qualcosa.
 
-Questi programmi sono salvati in .c e quindi sono file sorgente di C e per quello non e presente " #include<iostream> " 
+Questi programmi sono salvati in .c e quindi sono file sorgente di C e per quello non e presente " #include\<iostream\> " 
 perche e una classe presente soltanto in c++. Comunque questi programmi possono essere compilati in c++ e funzionano 
 ugualmente.
